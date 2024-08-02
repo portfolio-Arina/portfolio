@@ -110,6 +110,5 @@
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: arik.psarev@gmail.com
+- LinkedIn: https://linkedin.com/in/arina-psareva-4ab0ab280
